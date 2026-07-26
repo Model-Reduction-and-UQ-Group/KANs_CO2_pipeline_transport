@@ -1,4 +1,4 @@
-# Sensitivity Analysis of CO2 Mixture Transport in Pipelines Under Variable Operating and Design Conditions Using Kolmogorov-Arnold Networks
+# Impact of Compositional Variability of CO2 Mixture on Pipeline Flow Under Variable Operating and Design Conditions
 
 submitted to International Journal of Greenhouse Gas Control xxx (2026) xxxxx, https://doi.org/
 
